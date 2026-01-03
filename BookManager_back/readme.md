@@ -26,11 +26,6 @@
 2、打开项目，打开`src/main/resources/application.properties`，修改数据库和Redis的配置文件。
 
 3、运行项目
-## 演示地址
-
-**为了节约服务器资源，这个项目的演示就关掉了!!!**
-
-项目演示地址：http://47.97.104.230:8092/BookManager/
 
 管理员账号`admin`，密码`admin`
 
